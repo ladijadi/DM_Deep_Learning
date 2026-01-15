@@ -48,7 +48,7 @@ L’objectif n’est pas uniquement de maximiser l’accuracy globale, mais d’
 
 ├── DM_deepleanring.ipynb # Notebook principal (MLP + analyse complète)
 
-├── DM_deeplearning_models.ipynb # Notebook complémentaire (modèles équilibrés)
+├── Extension_du_DM_deeplearning.ipynb # Notebook complémentaire (modèles équilibrés)
 
 ├── README.md
 
@@ -68,4 +68,5 @@ L’objectif n’est pas uniquement de maximiser l’accuracy globale, mais d’
 **Khady Diagne**  
 Étudiante en Master 2 Science des données - IDMC  
 DM Deep Learning - 2025
+
 
